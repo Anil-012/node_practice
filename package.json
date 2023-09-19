@@ -1,0 +1,22 @@
+{
+  "name": "wow",
+  "version": "1.0.0",
+  "description": "node practice bada maza arha hai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anil-012/node_practice.git"
+  },
+  "keywords": [
+    "Learning"
+  ],
+  "author": "Anil Choudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anil-012/node_practice/issues"
+  },
+  "homepage": "https://github.com/Anil-012/node_practice#readme"
+}
